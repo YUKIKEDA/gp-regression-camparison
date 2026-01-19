@@ -1,0 +1,12 @@
+{
+  "dataset": "friedman_data_n5000_d90_t3.csv",
+  "elapsed_time_sec": 57.0699733,
+  "kernel": "RBF(bandwidth=1.000000) + WhiteKernel(noise=0.100000)",
+  "log_marginal_likelihood": -7105.240842806909,
+  "n_features": 90,
+  "n_restarts_optimizer": 0,
+  "n_samples": 5000,
+  "optimized_kernel": "RBF(bandwidth=1.000000) + WhiteKernel(noise=0.100000)",
+  "target": "target_1",
+  "timestamp": "2026-01-19T22:15:31.219609"
+}

@@ -1,0 +1,7 @@
+{
+  "dependencies": [
+    "mlpack",
+    "vincentlaucsb-csv-parser",
+    "nlohmann-json"
+  ]
+}
